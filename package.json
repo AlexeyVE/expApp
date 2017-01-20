@@ -1,0 +1,23 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyVE/expApp.git"
+  },
+  "author": "unknown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyVE/expApp/issues"
+  },
+  "homepage": "https://github.com/AlexeyVE/expApp#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0"
+  }
+}
