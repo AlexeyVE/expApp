@@ -35,5 +35,5 @@ exports.notFound = function(req, res) {
     res.render('notFound', {
             movies: movies,
             title: "Page not found"
-        });
+    });
 };
